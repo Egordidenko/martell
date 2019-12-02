@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'GaramProReg';
+    src: url('./fonts/GaramProReg.otf') format('otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SangBleuEmpire-Regular';
+    src: url('./fonts/SangBleuEmpire-Regular.eot') format('eot'),
+        url('./fonts/SangBleuEmpire-Regular.ttf') format('ttf'),
+        url('./fonts/SangBleuEmpire-Regular.woff') format('woff'),
+        url('./fonts/SangBleuEmpire-Regular.woff2') format('woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond-Regular';
+    src: url('./fonts/Cormorant/CormorantGaramond-Regular.ttf') format('ttf'),
+        url('./fonts/Cormorant/CormorantGaramond-Regular.woff') format('woff'),
+        url('./fonts/Cormorant/CormorantGaramond-Regular.woff2') format('woff2'),
+        url('./fonts/Cormorant/CormorantGaramond-Regular.eot') format('eot');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Martell-Regular';
+    src: url('./fonts/Martell-regular.ttf') format('ttf'),
+        url('./fonts/Martell-regular.eot') format('eot'),
+        url('./fonts/Martell-regular.woff') format('woff'),
+        url('./fonts/Martell-regular.woff2') format('woff2');
+    font-weight: 400;
+}

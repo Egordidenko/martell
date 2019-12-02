@@ -1,0 +1,89 @@
+:root {
+    --easeOutCubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+    --easeInCubic: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.margin-top {
+  margin-top: 120px;
+}
+
+.margin-bottom {
+  margin-bottom: 100px;
+}
+
+.margin-bottom__small {
+    margin-bottom: 50px;
+}
+
+/*fonts*/
+
+h1, .h1 {
+    font: 60px/1.16 'SangBleuEmpire-Regular';
+}
+
+h2, .h2 {
+    font: 40px/1.2 'SangBleuEmpire-Regular';
+}
+
+h3, .h3 {
+    font: 24px/1.33 'SangBleuEmpire-Regular';
+}
+
+p, .text {
+    font: 20px/1.2 'CormorantGaramond-Regular';
+}
+
+
+/*media*/
+
+@media screen and (max-width: 568px) {
+    h1, .h1 {
+        font-size: 30px;
+    }
+
+    h2, .h2 {
+      font-size: 24px;
+    }
+
+    p, .text {
+        font-size: 16px;
+    }
+}
+
+/*reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style: none;
+    margin: 0;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 1s;
+  pointer-events: none;
+}
+.page-enter-to {
+  opacity: 1;
+}
+
+.page-leave-to {
+  opacity: 0;
+}
+/* The leaving page gets position absolute so the two pages can cross dissolve */
+.page-enter-active {
+  position: absolute !important;
+  width: 100vw;
+  top: 0;
+  z-index: -100 !important;
+}
+
+.product-item.page-enter-active.page-enter-to .text-center{
+  transform: translate3d(0px, 0px, 0px);
+  transition: opacity 1s ease, transform .75s ease;
+}

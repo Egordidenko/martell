@@ -1,0 +1,242 @@
+{
+  "lounge": {
+    "name": "The Lounge",
+    "sliderTheme": "dark",
+    "sliderTitle": "Relax at the Lounge",
+    "sliderImg": "/img/bar/bar_preview.png",
+    "sliderBg": "/prods/Lounge/bg.jpg",
+    "sliderText": "The prestige lounge; one of our favourite places to enjoy company. Whether that be each other’s, or our own.",
+    "navText": "view",
+    "productsBackground": "/img/bar/bar_bg.png",
+    "cornerTitle": "The Bar",
+    "cornerDescription": "The prestige lounge; one of our favourite places to enjoy company. Whether that be each other’s, or our own.",
+    "video":  "/video/Martell-Lounge-BG-1.mp4",
+    "products": {
+      "cradle": {
+        "name": "Cradle",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 53.3,
+          "y": 45.5
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "figure": "/img/bar/products/cradle.png",
+        "figurePointPos": {
+          "x": 52.3,
+          "y": 44.5
+        },        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "ice_bucket": {
+        "title": "The Title 1",
+        "name": "Ice Bucket",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 85.3,
+          "y": 48.8
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "textAfterThumbnail": "first product",
+        "figure": "/img/bar/products/ice_bucket.png",
+        "figurePointPos": {
+          "x": 84,
+          "y": 47
+        },        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "neon": {
+        "title": "The Title 1",
+        "name": "Neon Sign",
+        "index": 3,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 70,
+          "y": 34
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "textAfterThumbnail": "first product",
+        "figure": "/img/bar/products/neon.png",
+        "figurePointPos": {
+          "x": 74,
+          "y": 32
+        },
+        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "trolley": {
+        "title": "Trolley",
+        "name": "Trolley",
+        "index": 4,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 84.3,
+          "y": 64.2
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "textAfterThumbnail": "first product",
+        "figure": "/img/bar/products/trolley.png",
+        "figurePointPos": {
+          "x": 82,
+          "y": 62
+        },
+        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "chairs": {
+        "title": "The Title 1",
+        "name": "Bar Chair",
+        "index": 5,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 64.3,
+          "y": 68.2
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "textAfterThumbnail": "first product",
+        "figure": "/img/bar/products/chairs.png",
+        "figurePointPos": {
+          "x": 60,
+          "y": 65
+        },
+        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "tumblers": {
+        "title": "The Title 1",
+        "name": "Tumbler Glasses",
+        "index": 6,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam. ",
+        "pos": {
+          "x": 41,
+          "y": 49.8
+        },
+        "image": "/img/bar/products/chairs/img.png",
+        "thumbnail": "/img/bar/products/chairs/img.png",
+        "textAfterThumbnail": "first product",
+        "figure": "/img/bar/products/tumblers.png",
+        "figurePointPos": {
+          "x": 38,
+          "y": 40
+        },
+        "contentHTML": "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      }
+    }
+  },
+  "pop-up": {
+    "name": "The Pop-up",
+    "sliderBg": "/prods/Boutique/bg.jpg",
+    "sliderTheme": "light",
+    "sliderTitle": "Explore the Pop-up",
+    "sliderImg": "/img/boutique/boutique_preview.png",
+    "sliderText": "The Pop-up; a space to experience all things Martell. Shop, shrine, call it what you will.",
+    "navText": "explore",
+    "productsBackground": "/img/boutique/boutique_bg.png",
+    "cornerTitle": "The Pop-up",
+    "cornerDescription": "The Tasting Corner; a place to broaden your palate, or indulge in what you know.",
+    "video": "/video/Martell-Boutique-BG-1.mp4",
+    "products": {
+      "labels": {
+        "title": "Labels",
+        "name": "Labels",
+        "index": 1,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 50.1, "y": 37.6},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/labels.png",
+        "figurePointPos": {
+          "x": 56.1,
+          "y": 34.6
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "bag": {
+        "title": "The Title 1",
+        "name": "Bag",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 53.5, "y": 82},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/bag.png",
+        "figurePointPos": {
+          "x": 55.5,
+          "y": 76
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "candle": {
+        "title": "The Title 1",
+        "name": "Candle",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 58, "y": 55.5},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/candle.png",
+        "figurePointPos": {
+          "x": 55.5,
+          "y": 46.5
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "gondola": {
+        "title": "The Title 1",
+        "name": "Gondola",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 35, "y": 63},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/gondola.png",
+        "figurePointPos": {
+          "x": 31.5,
+          "y": 38.5
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "stand": {
+        "title": "The Title 1",
+        "name": "Stand",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 26.3, "y": 60},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/stand.png",
+        "figurePointPos": {
+          "x": 19.5,
+          "y": 50.5
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      },
+      "tulip_glasses": {
+        "title": "Tulip Glasses",
+        "name": "Tulip Glasses",
+        "index": 2,
+        "price": "120",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In laborum mollitia perspiciatis ullam.",
+        "pos":  {"x": 73.5, "y": 53.5},
+        "image": "/img/boutique/products/stand/img.png",
+        "thumbnail": "/img/boutique/products/stand/img.png",
+        "figure": "/img/boutique/products/tulip_glasses.png",
+        "figurePointPos": {
+          "x": 76.5,
+          "y": 53.5
+        },
+        "contentHTML":  "<div class=\"text__content\"> <div class=\"blockquote\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <blockquote> <p>Torquatos nostros? quos dolores et accurate disserendum et rationibus confirmare, tantum.<\/p><span class=\"text\">Catherine Forrest, Lead of Visual Merchandising, Berlin<\/span> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/blockquote> <\/div><div class=\"design\"> <img src=\"\/prods\/text\/img1.png\" alt=\"\"> <div class=\"text__content_info\"> <div class=\"text-block\"> <h2>Cloth &amp; Copper<\/h2> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><\/div><\/div><div class=\"product-item__slider\"> <h3>Featured In<\/h3> <p>Tum dicere exorsus est laborum et aut contra sit, a natura ipsa natura.<\/p><div class=\"slider-container\"> <div class=\"slider-wrapper\"> <div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><div class=\"slider-slide\"> <div class=\"flex flex__fdc\"> <div class=\"slide__img\"> <img src=\"\/prods\/text\/img2.png\" alt=\"\"> <\/div><div class=\"slide__text text\"> <div class=\"slide__text_date\">Berlin, August 2019<\/div><div class=\"slide__text_author\">Lucy Williams<\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"combinations flex flex__jcsb flex__aic\"> <div class=\"combinations__img\"> <img class=\"combinations__img-main\" src=\"\/prods\/text\/combinations-img.png\" alt=\"\"> <img class=\"combinations__img-decoration\" src=\"\/prods\/text\/img-deco.png\" alt=\"\"> <\/div><div class=\"combinations__info flex flex__fdc\"> <h2>Drink Combinations<\/h2> <p>Omne animal, simul atque admonitionem altera occulta quaedam et voluptatem appetere eaque ipsa. In quo ignorare vos arbitrer. <\/p><a class=\"link\" href=\"\">learn more<\/a> <\/div><\/div>"
+      }
+    }
+  }
+}
